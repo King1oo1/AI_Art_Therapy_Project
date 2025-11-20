@@ -48,9 +48,10 @@ An advanced AI-powered art therapy system that transforms emotional expressions 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ai-art-therapy/blob/main/AI_Art_Therapy_Project.ipynb)
 
 1. **Upload to Colab**: Open `AI_Art_Therapy_Project.ipynb` in Google Colab
-2. **Enable GPU**: Runtime → Change runtime type → GPU
+2. **Enable GPU**: Runtime → Change runtime type → T4 GPU
 3. **Run All Cells**: Execute the complete pipeline
 4. **Launch Interface**: Get your public Gradio URL
+5. **My File Link**: [Run file](https://colab.research.google.com/drive/1Ds-2fWxym6I5hlk1cpEQ-XFOGcYNb_Vy?usp=sharing)
 
 ### Local Installation
 ```bash
