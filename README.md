@@ -1,9 +1,9 @@
-# 🎨 AI Emotional Art Therapy Studio
+# AI-4-Creativity-Project-Template (25/26)  
+## 🎨 AI Emotional Art Therapy Studio
 
 ## Student Information
 **Name:** Chandandeep Singh  
 **Student Number:** 2306140  
-**Course:** AI-4-Creativity-Project-Template (25/26)  
 **Project Title:** 🎨 AI Emotional Art Therapy Studio  
 
 ## 📹 Project Demonstration
