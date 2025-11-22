@@ -6,12 +6,6 @@
 ## Project title: 🎨 AI Emotional Art Therapy Studio
 ## Link to project video recording: 
 
-> *Transforming feelings into masterpieces through advanced AI emotional intelligence*
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)](https://huggingface.co)
-[![Gradio](https://img.shields.io/badge/Interface-Gradio-green)](https://gradio.app)
 
 An advanced AI-powered art therapy system that transforms emotional expressions into therapeutic artwork using Stable Diffusion and deep emotional analysis. Experience the future of digital art therapy through emotionally-intelligent AI generation.
 
