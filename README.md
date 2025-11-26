@@ -6,7 +6,7 @@
 ## Student Information
 **Name:** Chandandeep Singh  
 **Student Number:** 2306140   
-**Course:** 🎪 AI Circus OF STRANGE FORMS: ControlNet Edition
+**Course:** 🎪 AI Circus Of Strange Forms: ControlNet Edition
 
 ## 📹 Project Demonstration
 [Watch the Demo Video](YOUR_GOOGLE_DRIVE_LINK_HERE)
