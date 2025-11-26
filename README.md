@@ -60,11 +60,14 @@ An advanced AI art system that transforms ordinary images into surreal creatures
    - Use the Gradio interface to upload images
 
 4. **Start Creating**:
-   - Upload any image (person, animal, object)
+   - Upload any image (person, animal, object) Or Use the webcam to take photo
    - Choose bending technique and intensity
    - Click "Transform My Image!"
    - Watch as your image becomes a surreal creature
 
 ---
 
-
+### Artist References
+- **Mario Klingemann** → Neural Glitch weight corruption
+- **Justin Pinkney** → Layer swapping techniques  
+- **Terence Broad** → Network bending frameworks
