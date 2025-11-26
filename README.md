@@ -1,60 +1,70 @@
 # AI-4-Creativity-Project-Template (25/26)  
-## 🎨 AI Emotional Art Therapy Studio
+
+
+
 
 ## Student Information
 **Name:** Chandandeep Singh  
-**Student Number:** 2306140  
-**Project Title:** 🎨 AI Emotional Art Therapy Studio  
+**Student Number:** 2306140   
+**Course:** 🎪 AI Circus OF STRANGE FORMS: ControlNet Edition
 
 ## 📹 Project Demonstration
-[Watch the Demo](https://drive.google.com/file/d/1LRjiZ05QbRHmNadoVCYlhNtMPwraAQhh/view?usp=sharing)
+[Watch the Demo Video](YOUR_GOOGLE_DRIVE_LINK_HERE)
 
 ---
 
 ## 🌟 Project Overview
 
-An advanced AI-powered art therapy system that transforms emotional expressions into therapeutic artwork using Stable Diffusion and deep emotional analysis. Experience the future of digital art therapy through emotionally-intelligent AI generation that bridges technology and mental wellness.
+An advanced AI art system that transforms ordinary images into surreal creatures through real-time network bending and ControlNet conditioning.
 
 ---
 
 ## ✨ Features
 
-### 🧠 Emotional Intelligence
-- **Deep Emotion Analysis**: Advanced transformer models analyze emotional content from text
-- **Real-time Emotional Mapping**: Converts feelings into visual artistic parameters
-- **Intensity-based Generation**: Art adapts to emotional strength and nuance
+### 🎯 Real Network Bending
+- **Weight Corruption**: Direct manipulation of Stable Diffusion's UNet parameters
+- **Layer Mixing**: Forward hook interception of computational graph
+- **Activation Noise**: Real-time interference during denoising process
+- **Safe Intensity Controls**: Controlled model hacking without crashes
 
-### 🎨 Multi-Style Art Generation
-| Style | Description | Best For |
-|-------|-------------|----------|
-| **Anime** | Japanese animation style with vibrant colors | Joy, Surprise |
-| **Watercolor** | Soft, flowing textures with gentle edges | Sadness, Reflection |
-| **Cyberpunk** | Futuristic neon aesthetics with dynamic energy | Anger, Intensity |
-| **Abstract** | Non-representational color field compositions | Fear, Complexity |
-| **Digital Art** | Professional concept art and illustrations | All Emotions |
-| **Impressionist** | Painterly brush strokes and light effects | Calm, Peace |
+### 🖼️ ControlNet Integration
+| Control Type | Description | Best For |
+|--------------|-------------|----------|
+| **Canny Edges** | Precise edge detection | Objects, Animals, Shapes |
+| **Pose Detection** | Human pose estimation | Human figures, Anatomy |
+| **Image Guidance** | Structural conditioning | Complex compositions |
 
-### 💫 Therapeutic Framework
-- **Evidence-Based Approaches**: Grounded in art therapy principles
-- **Session Analytics**: Track emotional patterns over time
-- **Reflective Prompts**: Guided questions for emotional processing
-- **Progress Tracking**: Monitor emotional journey through artwork
-
+### 🎪 Creature Generation
+- **Hybrid Anatomy**: Combine multiple biological features
+- **Surreal Textures**: Glitch aesthetics through model corruption
+- **Dynamic Variations**: Seed-controlled reproducible generations
+- **Real-time Manipulation**: Live parameter adjustment
 
 ---
 
 ## 🚀 Quick Start
-### Google Colab (Recommended for Beginners)
-🔗 **Live Demo**: [My Colab Notebook](https://colab.research.google.com/drive/1Ds-2fWxym6I5hlk1cpEQ-XFOGcYNb_Vy?usp=sharing)
 
-## OR
+### Google Colab (Recommended)
+🔗 **Live Demo**: [Open in Google Colab](https://colab.research.google.com/drive/1QRlonEfOgfOCq6fOh8k0PI_3hQZEZODC?usp=sharing)
+
 #### Step-by-Step Setup:
-1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ai-art-therapy/blob/main/AI_Art_Therapy_Project.ipynb)
+1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
    
-3. **Enable GPU Acceleration**:
+2. **Enable GPU Acceleration**:
    - Go to `Runtime` → `Change runtime type`
    - Select `T4 GPU` as hardware accelerator
    
-4. **Run the Notebook**:
+3. **Run the System**:
    - Click `Runtime` → `Run all` or press `Ctrl+F9`
+   - Wait for model loading (~2-3 minutes)
+   - Use the Gradio interface to upload images
+
+4. **Start Creating**:
+   - Upload any image (person, animal, object)
+   - Choose bending technique and intensity
+   - Click "Transform My Image!"
+   - Watch as your image becomes a surreal creature
+
+---
+
 
