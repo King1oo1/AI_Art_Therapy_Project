@@ -45,10 +45,10 @@ An advanced AI art system that transforms ordinary images into surreal creatures
 ## 🚀 Quick Start
 
 ### Google Colab (Recommended)
-🔗 **Live Demo**: [Open in Google Colab](https://colab.research.google.com/drive/1QRlonEfOgfOCq6fOh8k0PI_3hQZEZODC?usp=sharing)
-
+🔗 **Live Demo**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hRIudEQNkih4fbSEVstPKLobi8rB7NlC?usp=sharing)
+   
 #### Step-by-Step Setup:
-1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+1. **Open in Colab**
    
 2. **Enable GPU Acceleration**:
    - Go to `Runtime` → `Change runtime type`
