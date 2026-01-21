@@ -34,7 +34,7 @@ Transform images into animated creatures with artistic styles
 4. **Run the System**:
    - Click `Runtime` : `Run all` or press `Ctrl+F9`
    - Wait for model loading (2-3 minutes)
-   - Use the Gradio interface to upload images
+   - Use the Gradio interface to upload images or Press on the running on public URL link
 
 5. **Start Creating**:
    - Upload any image (person, animal, object) Or Use the webcam to take photo
